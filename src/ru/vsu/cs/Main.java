@@ -25,6 +25,6 @@ public class Main {
     }
 
     public static void printSumDigit(int sum) {
-        System.out.println("Sum result : " + sum);
+        System.out.println("The sum's result of digits, which fulfill the condition: " + sum);
     }
 }
